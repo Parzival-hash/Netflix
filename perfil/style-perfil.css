@@ -12,17 +12,14 @@ body{
 /* quem esta assistindo? */
 
 .containerLogin{
-    border: 1px solid red;
     margin-top: 10%;
 }
 .assistindo{
-    border: 1px solid blue;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .frase1{
-    border: 1px solid yellow;
     color: white;
 
     display: flex;
@@ -36,7 +33,6 @@ body{
 /* PERFIS */
 
 .containerPerfil{
-    border: 1px solid red;
 
     margin-top: 5%;
 
@@ -83,7 +79,6 @@ body{
 
 .nome1{
     display: flex;
-    border: 2px solid green;
 
     width: 90px;
     height: 40px;
@@ -95,7 +90,6 @@ body{
 
 .nome2{
     display: flex;
-    border: 2px solid green;
 
     width: 90px;
     height: 40px;
@@ -107,7 +101,6 @@ body{
 
 .nome3{
     display: flex;
-    border: 2px solid green;
 
     width: 90px;
     height: 40px;
@@ -118,7 +111,6 @@ body{
 }
 .nome4{
     display: flex;
-    border: 2px solid green;
 
     width: 90px;
     height: 40px;
@@ -136,7 +128,6 @@ body{
 }
 
 .containerEscrita{
-    border: 1px solid yellow;
 
     display: flex;
     align-items: center;
@@ -150,7 +141,6 @@ body{
 .containerGerenciador{
     margin-top: 50px;
 
-    border: 1px solid blue;
 
     display: flex;
     align-items: center;
